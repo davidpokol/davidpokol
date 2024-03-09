@@ -13,7 +13,7 @@ public static void main(String[] args) {
 <!--START_SECTION:waka-->
 
 ```txt
-Java              8 hrs 59 mins   >>>>>>>>>>>>>>>>---------   64.97 %
+Java              8 hrs 59 mins   >>>>>>>>>>>>>>>>---------   64.98 %
 HTML              4 hrs 6 mins    >>>>>>>------------------   29.70 %
 XML               19 mins         >------------------------   02.33 %
 CSS               12 mins         -------------------------   01.54 %
