@@ -13,11 +13,8 @@ public static void main(String[] args) {
 <!--START_SECTION:waka-->
 
 ```txt
-Java          4 hrs 28 mins   >>>>>>>>>>>>>>>>>--------   69.86 %
-C++           1 hr 44 mins    >>>>>>>------------------   27.05 %
-YAML          7 mins          >------------------------   02.00 %
-SQL           2 mins          -------------------------   00.59 %
-IDEA_MODULE   1 min           -------------------------   00.49 %
+C++           1 hr 44 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   99.95 %
+Objective-C   0 secs          -------------------------   00.05 %
 ```
 
 <!--END_SECTION:waka-->
