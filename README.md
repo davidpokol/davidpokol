@@ -13,11 +13,7 @@ public static void main(String[] args) {
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   0 secs          >>>>>>>>>>>>>>>>>>>>-----   81.61 %
-Bash         0 secs          >>>>---------------------   16.28 %
-yarn.lock    0 secs          -------------------------   01.47 %
-JSON         0 secs          -------------------------   00.58 %
-TSConfig     0 secs          -------------------------   00.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
