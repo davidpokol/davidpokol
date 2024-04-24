@@ -13,10 +13,7 @@ public static void main(String[] args) {
 <!--START_SECTION:waka-->
 
 ```txt
-Java        3 mins          >>>>>>>>>>>>>>>>>>>>>----   83.00 %
-YAML        0 secs          >>>>---------------------   16.31 %
-Bash        0 secs          -------------------------   00.66 %
-.env file   0 secs          -------------------------   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
