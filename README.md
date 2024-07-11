@@ -13,7 +13,11 @@ public static void main(String[] args) {
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java             3 hrs 43 mins   >>>>>>>>>>>>>>>>>>>------   74.20 %
+XML              21 mins         >>-----------------------   07.12 %
+GitIgnore file   20 mins         >>-----------------------   06.91 %
+YAML             18 mins         >>-----------------------   06.25 %
+Bash             14 mins         >------------------------   04.94 %
 ```
 
 <!--END_SECTION:waka-->
