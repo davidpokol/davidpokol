@@ -13,11 +13,11 @@ public static void main(String[] args) {
 <!--START_SECTION:waka-->
 
 ```txt
-Java              4 hrs 31 mins   >>>>>>>>>>>--------------   43.25 %
-JavaScript        2 hrs 20 mins   >>>>>>-------------------   22.41 %
-HTML              1 hr 27 mins    >>>----------------------   13.90 %
-CSS               1 hr 7 mins     >>>----------------------   10.79 %
-XML               25 mins         >------------------------   04.00 %
+Java              4 hrs 20 mins   >>>>>>>>>>>--------------   42.85 %
+JavaScript        2 hrs 20 mins   >>>>>>-------------------   23.18 %
+HTML              1 hr 27 mins    >>>>---------------------   14.38 %
+CSS               1 hr 7 mins     >>>----------------------   11.16 %
+XML               18 mins         >------------------------   03.08 %
 ```
 
 <!--END_SECTION:waka-->
