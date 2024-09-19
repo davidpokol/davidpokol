@@ -13,10 +13,8 @@ public static void main(String[] args) {
 <!--START_SECTION:waka-->
 
 ```txt
-Python           1 hr 52 mins    >>>>>>>>>>>>>>>>>>>>>>>>-   96.01 %
+Python           1 hr 52 mins    >>>>>>>>>>>>>>>>>>>>>>>>-   96.05 %
 GitIgnore file   4 mins          >------------------------   03.95 %
-Java             0 secs          -------------------------   00.04 %
-YAML             0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
