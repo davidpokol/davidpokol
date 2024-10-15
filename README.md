@@ -13,11 +13,10 @@ public static void main(String[] args) {
 <!--START_SECTION:waka-->
 
 ```txt
-Java                        7 hrs 52 mins   >>>>>>>>>>>>>>-----------   56.32 %
-Java Template Engine File   5 hrs 20 mins   >>>>>>>>>>---------------   38.19 %
-Java Properties             16 mins         -------------------------   01.97 %
-JavaScript                  14 mins         -------------------------   01.69 %
-Other                       6 mins          -------------------------   00.77 %
+Java                        6 hrs 9 mins    >>>>>>>>>>>>>>-----------   57.43 %
+Java Template Engine File   4 hrs 1 min     >>>>>>>>>----------------   37.51 %
+Java Properties             16 mins         >------------------------   02.57 %
+Other                       6 mins          -------------------------   01.00 %
 ```
 
 <!--END_SECTION:waka-->
