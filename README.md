@@ -13,7 +13,9 @@ public static void main(String[] args) {
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java                        11 mins         >>>>>>>>>>>>>>>>>>>>>>---   87.41 %
+SQL                         1 min           >>-----------------------   08.87 %
+Java Template Engine File   0 secs          >------------------------   03.72 %
 ```
 
 <!--END_SECTION:waka-->
