@@ -13,8 +13,7 @@ public static void main(String[] args) {
 <!--START_SECTION:waka-->
 
 ```txt
-Java   3 hrs 24 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   99.94 %
-SQL    0 secs          -------------------------   00.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
