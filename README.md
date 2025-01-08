@@ -13,7 +13,10 @@ public static void main(String[] args) {
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin       1 hr 48 mins    >>>>>>>>>>>>>>>----------   61.98 %
+XML          1 hr 6 mins     >>>>>>>>>>---------------   38.02 %
+Java         0 secs          -------------------------   00.00 %
+Properties   0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
