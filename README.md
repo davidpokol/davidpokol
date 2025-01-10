@@ -13,11 +13,11 @@ public static void main(String[] args) {
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin       7 hrs 30 mins   >>>>>>>>>>>>>>>>>>>>>>---   86.06 %
-XML          1 hr 12 mins    >>>----------------------   13.90 %
-TOML         0 secs          -------------------------   00.04 %
+Kotlin       12 hrs 30 mins  >>>>>>>>>>>>>>>>---------   65.17 %
+XML          6 hrs 40 mins   >>>>>>>>>----------------   34.75 %
+Java         0 secs          -------------------------   00.06 %
+TOML         0 secs          -------------------------   00.02 %
 Properties   0 secs          -------------------------   00.00 %
-Java         0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
