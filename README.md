@@ -13,10 +13,7 @@ public static void main(String[] args) {
 <!--START_SECTION:waka-->
 
 ```txt
-Python     2 hrs 43 mins   >>>>>>>>>>>>-------------   49.95 %
-Go         2 hrs 37 mins   >>>>>>>>>>>>-------------   47.88 %
-Kotlin     6 mins          >------------------------   02.09 %
-Markdown   0 secs          -------------------------   00.08 %
+Python   2 hrs 35 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
