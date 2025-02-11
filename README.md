@@ -13,9 +13,8 @@ public static void main(String[] args) {
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin   2 mins          >>>>>>>>>>>>>>>>>>>>>>>--   90.83 %
-Python   0 secs          >>-----------------------   08.54 %
-XML      0 secs          -------------------------   00.62 %
+Kotlin   2 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   99.32 %
+XML      0 secs          -------------------------   00.68 %
 ```
 
 <!--END_SECTION:waka-->
