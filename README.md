@@ -15,7 +15,7 @@ public static void main(String[] args) {
 ```txt
 JavaScript                  4 hrs 15 mins   >>>>>>>>>>>>>>>----------   61.76 %
 Java Template Engine File   1 hr 35 mins    >>>>>>-------------------   23.09 %
-Java                        58 mins         >>>>---------------------   14.20 %
+Java                        58 mins         >>>>---------------------   14.21 %
 CSS                         3 mins          -------------------------   00.94 %
 TypeScript                  0 secs          -------------------------   00.01 %
 ```
