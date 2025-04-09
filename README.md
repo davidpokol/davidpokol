@@ -13,10 +13,11 @@ public static void main(String[] args) {
 <!--START_SECTION:waka-->
 
 ```txt
-C#              1 hr 44 mins    >>>>>>>>>>>>>>>>>>>>>>>>-   96.02 %
-XML             2 mins          >------------------------   02.05 %
-HTTP Request    1 min           -------------------------   01.10 %
-Text Template   0 secs          -------------------------   00.83 %
+C#                          2 hrs 27 mins   >>>>>>>>>>>>>>>>>>>>>>>--   93.96 %
+XML                         3 mins          >------------------------   02.40 %
+JSON                        2 mins          -------------------------   01.32 %
+HTTP Request                2 mins          -------------------------   01.32 %
+Text Template               0 secs          -------------------------   00.58 %
 ```
 
 <!--END_SECTION:waka-->
