@@ -4,8 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java Template Engine File   4 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   99.63 %
-Java                        0 secs          -------------------------   00.37 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
