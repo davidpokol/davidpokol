@@ -4,7 +4,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java Template Engine File   0 secs          >>>>>>>>>>>>>>>>>>>>>>---   86.05 %
+Java                        0 secs          >>>----------------------   13.95 %
 ```
 
 <!--END_SECTION:waka-->
