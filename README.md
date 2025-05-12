@@ -4,10 +4,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python                      46 mins         >>>>>>>>>>>>>>>>>>>>-----   78.87 %
-HTML                        12 mins         >>>>>--------------------   21.06 %
-Java Template Engine File   0 secs          -------------------------   00.06 %
-Java                        0 secs          -------------------------   00.01 %
+Python   46 mins         >>>>>>>>>>>>>>>>>>>>-----   78.93 %
+HTML     12 mins         >>>>>--------------------   21.07 %
 ```
 
 <!--END_SECTION:waka-->
