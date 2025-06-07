@@ -4,11 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java                        28 mins         >>>>>>>>>>>>>>-----------   55.78 %
-C#                          20 mins         >>>>>>>>>>---------------   40.28 %
-Java Template Engine File   1 min           >------------------------   02.03 %
-Solution File               0 secs          -------------------------   01.64 %
-HTTP Request                0 secs          -------------------------   00.27 %
+C#                          1 hr            >>>>>>>>>>>>>>>>>--------   66.12 %
+Java                        28 mins         >>>>>>>>-----------------   31.62 %
+Java Template Engine File   1 min           -------------------------   01.15 %
+Solution File               0 secs          -------------------------   00.93 %
+HTTP Request                0 secs          -------------------------   00.17 %
 ```
 
 <!--END_SECTION:waka-->
